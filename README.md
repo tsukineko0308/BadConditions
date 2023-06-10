@@ -1,2 +1,2 @@
 # ░ BadCondtions
-BadCondtions(以下BC)は、脱出型FPSです。
+BadCondtions(以下BC)は、マップからの脱出をメインとした脱出型FPSです。
