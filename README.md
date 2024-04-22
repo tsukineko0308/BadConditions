@@ -9,3 +9,4 @@
 | ---- | ---- |
 |  ![image](https://github.com/tsukineko0308/BadConditions/blob/main/img/3.png?raw=true)  |  ![image](https://github.com/tsukineko0308/BadConditions/blob/main/img/4.png?raw=true)  |
 # リソースパック導入方法
+1.[ここ](https://github.com/tsukineko0308/BadConditions/tree/main/resourcepacks)から**最もバージョンが大きいファイル**をダウンロード
