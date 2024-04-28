@@ -4,6 +4,7 @@
 | ---- | ---- |
 | アドレス | bc.jpn.gg |
 | 対応Ver | 1.12.2 ~ 1.20.x |
+| 公式Discord | discord.gg/yDhcN9Wa9G |
 
 |  ![image](https://github.com/tsukineko0308/BadConditions/blob/main/img/1.png?raw=true)  |  ![image](https://github.com/tsukineko0308/BadConditions/blob/main/img/2.png?raw=true)  |
 | ---- | ---- |
